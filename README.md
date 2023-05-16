@@ -14,7 +14,7 @@
 
 - A passionate Full Stack developer
 - Always learning new stuff to be up to date
-- Personal website [link]("AQUI VA MI PAGINA CUANDO ESTE LISTA")
+- Personal website [link](https://itsroa.vercel.app/)
 - I’m currently open a new job opportunity
 
 <br><br>
